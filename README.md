@@ -77,5 +77,5 @@ If you encounter any issues during installation or execution, please check the f
 - Verify an active internet connection for package installation.
 - If problems persist, check the console output for error messages.
 
-##Contributions
+## Contributions
 Contributions are welcome! Feel free to submit issues or pull requests to improve the functionality or fix any bugs.
