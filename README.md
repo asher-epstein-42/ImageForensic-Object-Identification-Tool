@@ -63,14 +63,14 @@ The application supports a variety of image file types commonly encountered in d
 - webp
 - pfm
 
-##Digital Forensics
+## Digital Forensics
 In digital forensics, the application becomes a valuable tool for investigators by offering:
 
 - Automated Object Identification: Accelerating the process of identifying specific objects within digital images.
 - Advanced Search Options: Providing flexibility with options like enabling advanced search, showing images during the process, and copying original images.
 - Supported Image Types: Accommodating various image formats commonly encountered in digital forensics investigations.
 
-##Troubleshooting
+## Troubleshooting
 If you encounter any issues during installation or execution, please check the following:
 
 - Ensure that Python is installed and added to the system PATH.
