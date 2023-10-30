@@ -15,7 +15,7 @@ pip install tkinter
 pip install ultralytics
 pip install opencv-python
 ```
-##Installation
+## Installation
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/asher-epstein-42/ImageForensic-Object-Identification-Tool.git
@@ -38,7 +38,7 @@ Alternatively, you can run the application directly by executing the main.py scr
 ```bash
 python main.py
 ```
-##Usage
+## Usage
 1.The GUI will prompt you to select the object you want to search for from a dropdown list.
 
 2.Enter the directory path where you want to perform the search.
@@ -49,7 +49,7 @@ python main.py
 
 5.Click the "Start Process" button to initiate the object search.
 
-##Supported File Types
+## Supported File Types
 The application supports a variety of image file types commonly encountered in digital forensics:
 
 - bmp
