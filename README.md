@@ -19,7 +19,7 @@ pip install opencv-python
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/asher-epstein-42/ImageForensic-Object-Identification-Tool.git
-cd object-search-app
+cd ImageForensic-Object-Identification-Tool
 ```
 
 ## Running the Application
