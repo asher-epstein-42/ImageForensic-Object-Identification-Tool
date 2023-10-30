@@ -2,7 +2,7 @@
 ![gui_screenshot](https://github.com/asher-epstein-42/ImageForensic-Object-Identification-Tool/assets/110289469/7c39cd25-facf-4317-bc75-1519643abe0d)
 
 
-This is a Python application that allows users to recursively search for a specified object in a directory and its subdirectories of images using YOLO (You Only Look Once) object detection. The application provides a graphical user interface (GUI) for easy interaction.
+This is a Python application that allows users to recursively search for a specified object in a directory and its subdirectories of images using YOLO (You Only Look Once) object detection. The application provides a graphical user interface (GUI) made with tkinter module for easy interaction.
 
 ## Getting Started
 
